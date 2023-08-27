@@ -1,2 +1,2 @@
 # Nawab-Demo
-Author - Adil Nawab
+Author - Adil Nawab, son of Md. Nawab
